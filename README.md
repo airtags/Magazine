@@ -1,3 +1,0 @@
-#Magazine
-#Magazine
-# Magazine
